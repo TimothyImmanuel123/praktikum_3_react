@@ -1,0 +1,17 @@
+.app {
+  padding: 30px;
+  background-color: rgb(199, 126, 126);
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+  color :rgb(42, 233, 233);
+}
+.edit {
+  font-size: 18px;
+  justify-content: space-between;
+  color :rgb(42, 233, 233);
+}
